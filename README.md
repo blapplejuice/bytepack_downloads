@@ -1,4 +1,4 @@
-# download bytepack
+# Downloads
 
 
-[download the latest version](https://github.com/blapplejuice/bytepack/releases/latest)
+## [Latest Version](https://github.com/blapplejuice/bytepack/releases/latest)
