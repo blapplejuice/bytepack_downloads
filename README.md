@@ -6,8 +6,6 @@
 <br>
 
 # Devlog
-<br>
-
 ## First Major Beta Update!
 #### 04/07/2020
 Thanks to [Thoughy,](https://github.com/1ThOughy1/) there is a massive update on the way!
